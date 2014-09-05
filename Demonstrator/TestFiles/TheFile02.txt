@@ -1,0 +1,11 @@
+﻿Rank Company	Capitalisation (£m)	Purpose
+1 Royal Dutch Shell	117,078.16	Petrol, oil, extraction
+2 BP	110,754.50	Petrol, oil, extraction
+3 HSBC	106,791.58	Banking
+4 GlaxoSmithKline	78,131.02	Pharmaceutical industry
+5 Vodafone Group	74,470.37	phones and communication
+6 Royal Bank of Scotland Group	63,032.80	Banking including Halifax
+7 Barclays plc	47,239.09	banking
+8 HBOS	42,883.30	Banking
+9 AstraZeneca	42,557.86	Chemicals (Zeneca used to be part of ICI
+10 Anglo American	36,931.36	Mining
